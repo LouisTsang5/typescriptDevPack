@@ -17,5 +17,5 @@ npm install
 3. Run the below shell to compile all ts to js
 
 ```bash
-bash build.sh
+npm run build
 ```
