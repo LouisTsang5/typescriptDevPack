@@ -1,0 +1,11 @@
+#installed node modules
+node_modules
+
+#js files
+*.js
+
+#backup files
+*.bak
+
+#Mac system files
+.DS_Store
